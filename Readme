@@ -21,7 +21,7 @@ Install dependencies:
 ```bash
 flutter pub get
 git clone https://github.com/Leya-Benny/Restaurant_App-
-cd flutter_application_1
+cd Restaurant_App-
 flutter pub get
 flutter run
 
