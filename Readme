@@ -1,0 +1,28 @@
+# Flutter Application 1
+
+A basic Flutter application demonstrating the use of images and SVG assets for UI design.
+
+## 📱 Features
+
+- Simple and clean user interface
+- Uses both PNG and SVG images
+- Material design integration
+- Asset management with local image and SVG files
+
+
+## 🛠️ Dependencies
+
+- `flutter`
+- `cupertino_icons` – for iOS-style icons
+- `flutter_svg` – to render SVG images
+
+Install dependencies:
+
+```bash
+flutter pub get
+git clone https://github.com/your-username/flutter_application_1.git
+cd flutter_application_1
+flutter pub get
+flutter run
+
+
