@@ -20,7 +20,7 @@ Install dependencies:
 
 ```bash
 flutter pub get
-git clone https://github.com/your-username/flutter_application_1.git
+git clone https://github.com/Leya-Benny/Restaurant_App-.git
 cd flutter_application_1
 flutter pub get
 flutter run
